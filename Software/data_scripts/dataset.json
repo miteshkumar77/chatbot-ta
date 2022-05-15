@@ -1,0 +1,109 @@
+{
+  "version": "0.1.0",
+  "data": [
+    {
+      "id": "e9cd86e7264ec75f018c92ea892fb0f9ae2cf1ced6ef8c83ab7dec9d2a44e8db84cf913355a5c0360f0025a151624adb",
+      "title": "capstone_validation_set",
+      "context": " and more importantly, later in most of your careers.\nTable of contents\nProject Engineers - Purchasing\nCustomer Needs\nProject Requirements\nApproval Review\nRelated Pages\nFabrication\nCustomer Needs\nProject Requirements\nApproval Review\nRelated Pages\nFabrication\naccidentally ordering surface mount components when through-hole ones are to be used with a protoboard\nbuying actuating components like motors and relays that exceed the current or voltage capabilities of the electronics that were expected to drive them",
+      "question": "How do I order parts?",
+      "answers": { "text": ["Purchasing"], "answer_start": [92] }
+    },
+    {
+      "id": "d445ec1c9563979f0a509d433204e5b2443009a89e1ace25d7b82ee0f98a751d04a39d6027f10dccfe2be270fdc9418e",
+      "title": "capstone_validation_set",
+      "context": "Knowledge Base \nAll CAD must be approved by your Project Engineer PRIOR to fabrication - whether the student team is fabricating things yourself or having our shop do the fabrication. Schedule an office appointment with your Project Engineer for this review. In general, for final approval, hard copy drawings are required. Preliminary discussions may be done with the model in CAD.\nThis diagram shows the general process:\nMore information about creating the required diagrams and documentation can be found in t",
+      "question": "How do I order parts?",
+      "answers": {
+        "text": [
+          "fabricating things yourself or having our shop do the fabrication"
+        ],
+        "answer_start": [117]
+      }
+    },
+    {
+      "id": "336efb0a7a739be83528e71814599a01a639553816ce9f171ab4b5dccbfc2db3569e62c2cd655921e35caa2f9dd01c99",
+      "title": "capstone_validation_set",
+      "context": "le Four Slot Rails (also called 25 series)\nMore information & part names - https://www.mcmaster.com/structural-framing/\nTable of contents\nDesign Lab Cabinet Inventory\nCABINET #2\nCABINET #5\nCABINET N\nCABINET #4\nCABINET #6\nCABINET #3\nCABINET #7\nDRAWERS\nLOCKED ELECTRONICS CABINETS\nIED CABINET\n80/20 CABINET\nCABINET #2\nCABINET #5\nCABINET N\nCABINET #4\nCABINET #6\nCABINET #3\nCABINET #7\nDRAWERS\nLOCKED ELECTRONICS CABINETS\nIED CABINET\n80/20 CABINET\nMicroprocessors\nRaspberry Pi\nArduino Mega, Uno, Due, etc\nATtiny\nLITEC",
+      "question": "What are vendors of microcontrollers?",
+      "answers": {
+        "text": ["Raspberry Pi\nArduino Mega, Uno, Due, etc\nATtiny\nLITEC"],
+        "answer_start": [459]
+      }
+    },
+    {
+      "id": "ca885366a088c060bb7431b6a811f5b99d76c3ab52f0d4adc9d8f5e3cc749ce4cc15ade897ee37caca3f977f3de2a2ac",
+      "title": "capstone_validation_set",
+      "context": "Campus (and the greater Capital Region) have numerous facilities and capabilities to fabricate almost anything. Below is information on manufacturing resources that may be available to your project team. You MUST PLAN AHEAD! Be sure to review, talk to your teammates, and your Project Engineer!\nA three dimensional STL file type is used to program these machines - you are responsible for creating this file.\nInformation on equipment available here - Rapid Prototyping Resources\nProcess for creating parts for Ca",
+      "question": "What is the final deliverable in capstone?",
+      "answers": {
+        "text": ["Rapid Prototyping Resources\nProcess for creating parts"],
+        "answer_start": [451]
+      }
+    },
+    {
+      "id": "e1b389d4afab69f6a502f9929d63d4a85c6754e9e98ecb82c275701728503c77b0d6fc02c9783a9bf9d02f9c031b44be",
+      "title": "capstone_validation_set",
+      "context": "Knowledge Base \nAll CAD must be approved by your Project Engineer PRIOR to fabrication - whether the student team is fabricating things yourself or having our shop do the fabrication. Schedule an office appointment with your Project Engineer for this review. In general, for final approval, hard copy drawings are required. Preliminary discussions may be done with the model in CAD.\nThis diagram shows the general process:\nMore information about creating the required diagrams and documentation can be found in t",
+      "question": "What is the final deliverable in capstone?",
+      "answers": { "text": ["hard copy drawings"], "answer_start": [291] }
+    },
+    {
+      "id": "bfa291fa24bf4f18aa441811fcfc00da8bb370fc899693b1e814a5f2ad0c025cb3a08aa448dec86cd0baf0b45047ab08",
+      "title": "capstone_validation_set",
+      "context": "ilable here - Templates_and_Forms\nGrading rubric available on the Tasks and Due Dates page.\nExample posters\nDESIGN LAB PORTFOLIO 2015-16 Final.pdf\nDESIGN LAB PORTFOLIO 2018-19.pdf\nDESIGN LAB PORTFOLIO 2015-16 Final.pdf\nDESIGN LAB PORTFOLIO 2018-19.pdf\nPurpose of the Project - Who is your customer / what is the purpose of the project, from the customers perspective? In other words, how will the customer benefit when your project and follow-on work meets the long term objective of this effort? You should find",
+      "question": "Where are the templates for design reports located?",
+      "answers": {
+        "text": ["Tasks and Due Dates page"],
+        "answer_start": [66]
+      }
+    },
+    {
+      "id": "dc093f87f7b84630507f599236d7c8fd84a2d84364825458f5615280d987db010b1c52a37af7c27b55e7e7b0f022cf60",
+      "title": "capstone_validation_set",
+      "context": "lection refer to your IED textbook. Sections from \"Product Design and Development\" by Ulrich & Eppinger can be found here.\nThese are covered on a separate page.\nTaking good meeting minutes and posting them as plain text makes it simple for team members to find information and decisions. Hints and suggestions have been collected here.\nSome time saver tips for simplifying your final report preparing are included in the attached PowerPoint file. MS_Word_Tips.pptx\nAvoid having a table's row break across a page.",
+      "question": "Where are the templates for design reports located?",
+      "answers": {
+        "text": ["the attached PowerPoint file"],
+        "answer_start": [417]
+      }
+    },
+    {
+      "id": "3054efd65beaa1fad07e68800464ed2ebabad13c117cd01928ad28f1e0ded7c6981b09b59fd516ea95d048fa159f2883",
+      "title": "capstone_validation_set",
+      "context": "of this is important\nReal life example of WHY all of this is important\nCreating Strong Presentations (using PowerPoint)\nTypical Meeting Slides\nGuidelines from a Sponsor\nChecklist for the material\nFormat\nContent\nScheduling\nProofread/Practice\nLogistics\nFinal Design Review\nGraphics\nTypical Meeting Slides\nGuidelines from a Sponsor\nChecklist for the material\nFormat\nContent\nScheduling\nProofread/Practice\nLogistics\nFinal Design Review\nFormat\nContent\nScheduling\nProofread/Practice\nLogistics\nFinal Design Review\nGraphi",
+      "question": "Where are the templates for design reports located?",
+      "answers": { "text": ["PowerPoint"], "answer_start": [108] }
+    },
+    {
+      "id": "55ba4dcdd4fe876b3941ff24b49c98cc6dacbb9e9e53fb4b7a9f08732aee410c6114f636b3c3b2c8c4bbc810512c8ca0",
+      "title": "capstone_validation_set",
+      "context": "the current semester's work takes place\nAll mechanical CAD models and drawings AND all electrical CAD (i.e. schematics) go to the CAD folder.\nPurchasing folder\npurchasing forms - scans or electronic version\nBill of Materials\npurchasing forms - scans or electronic version\nBill of Materials\nVideo Files\nPlease check with your PE BEFORE you place large video files on the repo.\nPlease check with your PE BEFORE you place large video files on the repo.\nSoftware folders\ninclude all source code and make files or ins",
+      "question": "Where are the templates for design reports located?",
+      "answers": { "text": ["CAD folder"], "answer_start": [130] }
+    },
+    {
+      "id": "45cf9f6a842068518c9065bf52773793727e52bc311844c90922d2abd5af5b646c973880fda7b601577f56150a2240af",
+      "title": "capstone_validation_set",
+      "context": " web searching indicates that NONE of these are the \"best\". All work and can be used to create a schematic which can then be turned into a PCB. Some Open Source applications may require a little more work to get running or to get used to them - but that are inherently available to all!\nThere are MANY PCB makers that can be found online. The following are a few that we have had some experience with in the Lab or that faculty / staff / students have used. You will need to search for them online to get more de",
+      "question": "Where can I find microcontrollers or CPUs?",
+      "answers": { "text": ["online"], "answer_start": [331] }
+    },
+    {
+      "id": "7f414052a15be14175c49c2df5a3a385f64d3d40121901e4dae492a3087b2374bc6c1abedff5fd3187267deae761ab8f",
+      "title": "capstone_validation_set",
+      "context": "e to a P12 file\nRegister devices\nCreate Apple Development Provisioning Profile\nSubmit to Build\nAdding certificates\nRunning a Build\nAccessing and Storing Accelerator\nAccessing Accelerator Data\nPseudo Code to read Accelerometor\nAccessing Accelerator Data\nPseudo Code to read Accelerometor\nPseudo Code to read Accelerometor\nDownload SVN to your local computer (see main wifi for instructions)\nCreate a free Monaca Account here: https://monaca.io/\nDownload Visual Studio 2015 Community for free here: https://www.dre",
+      "question": "Where can I find microcontrollers or CPUs?",
+      "answers": {
+        "text": ["P12 file\nRegister devices"],
+        "answer_start": [7]
+      }
+    },
+    {
+      "id": "67598d5071117fd4ec2444eebf9b9805022f7607bb08687b4307f6a21c47642bc141feb644f7b4cf3b2b65c1201376fd",
+      "title": "capstone_validation_set",
+      "context": "or + ESP8266 combination where the microprocessor can be an Arduino or almost any other make/model.\nMQTT\nhttps://www.machinedesign.com/automation-iiot/article/21137547/mqtt-keeps-iot-system-design-simple\nhttps://www.machinedesign.com/automation-iiot/article/21137547/mqtt-keeps-iot-system-design-simple\nRESTful API (application programming interface)\n",
+      "question": "Where can I find microcontrollers or CPUs?",
+      "answers": { "text": ["+ ESP8266 combination"], "answer_start": [3] }
+    }
+  ]
+}

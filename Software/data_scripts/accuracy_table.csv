@@ -1,0 +1,142 @@
+,id,title,context,question,answers,predictions,answer_tokens,f1_accuracy,predicted_sentence,answer_text
+0,e9cd86e7264ec75f018c92ea892fb0f9ae2cf1ced6ef8c83ab7dec9d2a44e8db84cf913355a5c0360f0025a151624adb,capstone_validation_set," and more importantly, later in most of your careers.
+Table of contents
+Project Engineers - Purchasing
+Customer Needs
+Project Requirements
+Approval Review
+Related Pages
+Fabrication
+Customer Needs
+Project Requirements
+Approval Review
+Related Pages
+Fabrication
+accidentally ordering surface mount components when through-hole ones are to be used with a protoboard
+buying actuating components like motors and relays that exceed the current or voltage capabilities of the electronics that were expected to drive them",How do I order parts?,"{'answer_start': array([92]), 'text': array(['Purchasing'], dtype=object)}","[  101  2496 20807  5644  1176 17109  1105  9316  1116  1115 13908  1103
+  1954  1137 10323  9816   102]",[ 101  153 2149 7147 4253  102],0.1739130434782609,actuating components like motors and relays that exceed the current or voltage capabilities,['Purchasing']
+1,d445ec1c9563979f0a509d433204e5b2443009a89e1ace25d7b82ee0f98a751d04a39d6027f10dccfe2be270fdc9418e,capstone_validation_set,"Knowledge Base 
+All CAD must be approved by your Project Engineer PRIOR to fabrication - whether the student team is fabricating things yourself or having our shop do the fabrication. Schedule an office appointment with your Project Engineer for this review. In general, for final approval, hard copy drawings are required. Preliminary discussions may be done with the model in CAD.
+This diagram shows the general process:
+More information about creating the required diagrams and documentation can be found in t",How do I order parts?,"{'answer_start': array([117]), 'text': array(['fabricating things yourself or having our shop do the fabrication'],
+      dtype=object)}",[ 101 8113 3798 1614 3739 1137 1515 1412 4130 1202 1103 8113 1891  102],[ 101 8113 3798 1614 3739 1137 1515 1412 4130 1202 1103 8113 1891  102],1.0769230769230769,fabricating things yourself or having our shop do the fabrication,['fabricating things yourself or having our shop do the fabrication']
+2,336efb0a7a739be83528e71814599a01a639553816ce9f171ab4b5dccbfc2db3569e62c2cd655921e35caa2f9dd01c99,capstone_validation_set,"le Four Slot Rails (also called 25 series)
+More information & part names - https://www.mcmaster.com/structural-framing/
+Table of contents
+Design Lab Cabinet Inventory
+CABINET #2
+CABINET #5
+CABINET N
+CABINET #4
+CABINET #6
+CABINET #3
+CABINET #7
+DRAWERS
+LOCKED ELECTRONICS CABINETS
+IED CABINET
+80/20 CABINET
+CABINET #2
+CABINET #5
+CABINET N
+CABINET #4
+CABINET #6
+CABINET #3
+CABINET #7
+DRAWERS
+LOCKED ELECTRONICS CABINETS
+IED CABINET
+80/20 CABINET
+Microprocessors
+Raspberry Pi
+Arduino Mega, Uno, Due, etc
+ATtiny
+LITEC",What are vendors of microcontrollers?,"{'answer_start': array([459]), 'text': array(['Raspberry Pi\nArduino Mega, Uno, Due, etc\nATtiny\nLITEC'],
+      dtype=object)}",[  101  8784 24963 22680  1942 27730  1643  2180 22371  3864   102],"[  101 16890 20080  6614 21902   138  2956 14846  1186 16501   117 12118
+  1186   117  4187   117  3576 13020  6105  1183   149 12150  8231   102]",0.125,CABINET Microprocessors,"['Raspberry Pi\nArduino Mega, Uno, Due, etc\nATtiny\nLITEC']"
+3,ca885366a088c060bb7431b6a811f5b99d76c3ab52f0d4adc9d8f5e3cc749ce4cc15ade897ee37caca3f977f3de2a2ac,capstone_validation_set,"Campus (and the greater Capital Region) have numerous facilities and capabilities to fabricate almost anything. Below is information on manufacturing resources that may be available to your project team. You MUST PLAN AHEAD! Be sure to review, talk to your teammates, and your Project Engineer!
+A three dimensional STL file type is used to program these machines - you are responsible for creating this file.
+Information on equipment available here - Rapid Prototyping Resources
+Process for creating parts for Ca",What is the final deliverable in capstone?,"{'answer_start': array([451]), 'text': array(['Rapid Prototyping Resources\nProcess for creating parts'],
+      dtype=object)}","[  101 16356 22388  2340  2624  9868 18821  1111  3780  2192  1111   140
+  1161   102]",[  101 16356 22388  2340  2624  9868 18821  1111  3780  2192   102],0.9166666666666666,Rapid Prototyping Resources Process for creating parts for Ca,['Rapid Prototyping Resources\nProcess for creating parts']
+4,e1b389d4afab69f6a502f9929d63d4a85c6754e9e98ecb82c275701728503c77b0d6fc02c9783a9bf9d02f9c031b44be,capstone_validation_set,"Knowledge Base 
+All CAD must be approved by your Project Engineer PRIOR to fabrication - whether the student team is fabricating things yourself or having our shop do the fabrication. Schedule an office appointment with your Project Engineer for this review. In general, for final approval, hard copy drawings are required. Preliminary discussions may be done with the model in CAD.
+This diagram shows the general process:
+More information about creating the required diagrams and documentation can be found in t",What is the final deliverable in capstone?,"{'answer_start': array([291]), 'text': array(['hard copy drawings'], dtype=object)}",[ 101 1662 5633 9484  102],[ 101 1662 5633 9484  102],1.0,hard copy drawings,['hard copy drawings']
+5,bfa291fa24bf4f18aa441811fcfc00da8bb370fc899693b1e814a5f2ad0c025cb3a08aa448dec86cd0baf0b45047ab08,capstone_validation_set,"ilable here - Templates_and_Forms
+Grading rubric available on the Tasks and Due Dates page.
+Example posters
+DESIGN LAB PORTFOLIO 2015-16 Final.pdf
+DESIGN LAB PORTFOLIO 2018-19.pdf
+DESIGN LAB PORTFOLIO 2015-16 Final.pdf
+DESIGN LAB PORTFOLIO 2018-19.pdf
+Purpose of the Project - Who is your customer / what is the purpose of the project, from the customers perspective? In other words, how will the customer benefit when your project and follow-on work meets the long term objective of this effort? You should find",Where are the templates for design reports located?,"{'answer_start': array([66]), 'text': array(['Tasks and Due Dates page'], dtype=object)}",[  101 11513  1116  1105  4187 14265  1116  3674   102],[  101 11513  1116  1105  4187 14265  1116  3674   102],1.125,Tasks and Due Dates page,['Tasks and Due Dates page']
+6,dc093f87f7b84630507f599236d7c8fd84a2d84364825458f5615280d987db010b1c52a37af7c27b55e7e7b0f022cf60,capstone_validation_set,"lection refer to your IED textbook. Sections from ""Product Design and Development"" by Ulrich & Eppinger can be found here.
+These are covered on a separate page.
+Taking good meeting minutes and posting them as plain text makes it simple for team members to find information and decisions. Hints and suggestions have been collected here.
+Some time saver tips for simplifying your final report preparing are included in the attached PowerPoint file. MS_Word_Tips.pptx
+Avoid having a table's row break across a page.",Where are the templates for design reports located?,"{'answer_start': array([417]), 'text': array(['the attached PowerPoint file'], dtype=object)}",[ 101 1113  170 2767 3674  102],[  101  1103  4309  3794  2101 21506  4956   102],0.28571428571428575,on a separate page,['the attached PowerPoint file']
+7,3054efd65beaa1fad07e68800464ed2ebabad13c117cd01928ad28f1e0ded7c6981b09b59fd516ea95d048fa159f2883,capstone_validation_set,"of this is important
+Real life example of WHY all of this is important
+Creating Strong Presentations (using PowerPoint)
+Typical Meeting Slides
+Guidelines from a Sponsor
+Checklist for the material
+Format
+Content
+Scheduling
+Proofread/Practice
+Logistics
+Final Design Review
+Graphics
+Typical Meeting Slides
+Guidelines from a Sponsor
+Checklist for the material
+Format
+Content
+Scheduling
+Proofread/Practice
+Logistics
+Final Design Review
+Format
+Content
+Scheduling
+Proofread/Practice
+Logistics
+Final Design Review
+Graphi",Where are the templates for design reports located?,"{'answer_start': array([108]), 'text': array(['PowerPoint'], dtype=object)}",[  101  3794  2101 21506   102],[  101  3794  2101 21506   102],1.0,PowerPoint,['PowerPoint']
+8,55ba4dcdd4fe876b3941ff24b49c98cc6dacbb9e9e53fb4b7a9f08732aee410c6114f636b3c3b2c8c4bbc810512c8ca0,capstone_validation_set,"the current semester's work takes place
+All mechanical CAD models and drawings AND all electrical CAD (i.e. schematics) go to the CAD folder.
+Purchasing folder
+purchasing forms - scans or electronic version
+Bill of Materials
+purchasing forms - scans or electronic version
+Bill of Materials
+Video Files
+Please check with your PE BEFORE you place large video files on the repo.
+Please check with your PE BEFORE you place large video files on the repo.
+Software folders
+include all source code and make files or ins",Where are the templates for design reports located?,"{'answer_start': array([130]), 'text': array(['CAD folder'], dtype=object)}",[  101  8784  2137 22073   102],[  101  8784  2137 22073   102],1.0,CAD folder,['CAD folder']
+9,45cf9f6a842068518c9065bf52773793727e52bc311844c90922d2abd5af5b646c973880fda7b601577f56150a2240af,capstone_validation_set," web searching indicates that NONE of these are the ""best"". All work and can be used to create a schematic which can then be turned into a PCB. Some Open Source applications may require a little more work to get running or to get used to them - but that are inherently available to all!
+There are MANY PCB makers that can be found online. The following are a few that we have had some experience with in the Lab or that faculty / staff / students have used. You will need to search for them online to get more de",Where can I find microcontrollers or CPUs?,"{'answer_start': array([331]), 'text': array(['online'], dtype=object)}",[ 101 3294  102],[ 101 3294  102],1.0,online,['online']
+10,7f414052a15be14175c49c2df5a3a385f64d3d40121901e4dae492a3087b2374bc6c1abedff5fd3187267deae761ab8f,capstone_validation_set,"e to a P12 file
+Register devices
+Create Apple Development Provisioning Profile
+Submit to Build
+Adding certificates
+Running a Build
+Accessing and Storing Accelerator
+Accessing Accelerator Data
+Pseudo Code to read Accelerometor
+Accessing Accelerator Data
+Pseudo Code to read Accelerometor
+Pseudo Code to read Accelerometor
+Download SVN to your local computer (see main wifi for instructions)
+Create a free Monaca Account here: https://monaca.io/
+Download Visual Studio 2015 Community for free here: https://www.dre",Where can I find microcontrollers or CPUs?,"{'answer_start': array([7]), 'text': array(['P12 file\nRegister devices'], dtype=object)}",[  101   153 11964  4956  4273  5197   102],[  101   153 11964  4956  4273  5197   102],1.0,P12 file Register devices,['P12 file\nRegister devices']
+11,67598d5071117fd4ec2444eebf9b9805022f7607bb08687b4307f6a21c47642bc141feb644f7b4cf3b2b65c1201376fd,capstone_validation_set,"or + ESP8266 combination where the microprocessor can be an Arduino or almost any other make/model.
+MQTT
+https://www.machinedesign.com/automation-iiot/article/21137547/mqtt-keeps-iot-system-design-simple
+https://www.machinedesign.com/automation-iiot/article/21137547/mqtt-keeps-iot-system-design-simple
+RESTful API (application programming interface)
+",Where can I find microcontrollers or CPUs?,"{'answer_start': array([3]), 'text': array(['+ ESP8266 combination'], dtype=object)}",[  101   116   142 15735  1604 25129  1545  4612   102],[  101   116   142 15735  1604 25129  1545  4612   102],1.0,+ ESP8266 combination,['+ ESP8266 combination']

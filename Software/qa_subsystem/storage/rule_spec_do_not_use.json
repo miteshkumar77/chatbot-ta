@@ -1,0 +1,112 @@
+{
+    "entry": {
+        "display": {
+            "prompt": "Ask a question...",
+            "links": ["https://designlab.eng.rpi.edu/edn/projects/capstone-support-dev/wiki"],
+            "description": "Welcome to the chatbot teaching assistant."
+        },
+        "children": ["final_presentations", "course_guidelines_and_policies"],
+        "keywords": []
+    },
+    "final_presentations": {
+        "display": {
+            "prompt": "Do you with the final design review document, or the final design review schedule?",
+            "links": [],
+            "description": ""
+        },
+        "children": ["final_design_review_and_design_document", "final_design_review_schedule"],
+        "keywords": [
+            "final",
+            "design",
+            "review",
+            "document",
+            "present"
+        ]
+    },
+    "final_design_review_and_design_document": {
+        "display": {
+            "prompt": "Final Design Review and Design Document",
+            "links": ["https://designlab.eng.rpi.edu/edn/projects/capstone-support-dev/wiki/Final_Design_Review_and_Design_Document#Final-Design-Review"],
+            "description": "Capstone ends with a Final Design Review and Final Design Report which are the CULMINATION of your semester project."
+        },
+        "children": [],
+        "keywords": [
+            "ends",
+            "culmination",
+            "semester",
+            "project",
+            "in-depth",
+            "proposed",
+            "solution",
+            "technical report",
+            "oral",
+            "written",
+            "presentation",
+            "update",
+            "overview",
+            "entire",
+            "instruction"
+        ]
+    },
+    "final_design_review_schedule": {
+        "display": {
+            "prompt": "Final Design Review Schedule",
+            "links": ["https://designlab.eng.rpi.edu/edn/projects/capstone-support-dev/wiki/Final_Design_Review_Schedule"],
+            "description": "Multidisciplinary Capstone Design does not have a final exam. The registrar does schedule final times for ECSE 4900, ISYE 4270, MANE 4260, and MTLE 4920."
+        },
+        "children": [],
+        "keywords": [
+            "final exam",
+            "schedule",
+            "time"
+        ]
+    },
+    "course_guidelines_and_policies": {
+        "display": {
+            "prompt": "Course Guidelines and Policies",
+            "links": ["https://designlab.eng.rpi.edu/edn/projects/capstone-support-dev/wiki/Course_Guidelines_and_Policies"],
+            "description": "Are you looking for information about the confidentiality requirements or the sponsorship agreement waiver?"
+        },
+        "children": ["confidentiality_requirements", "sponsorship_agreement_and_waiver"],
+        "keywords": [
+            "guidelines",
+            "policies",
+            "waiver",
+            "agreement",
+            "sponsor"
+        ]
+    },
+
+    "confidentiality_requirements": {
+        "display": {
+            "prompt": "Confidentiality Requirements",
+            "links": ["https://designlab.eng.rpi.edu/edn/projects/capstone-support-dev/wiki/Confidentiality_Requirements"],
+            "description": "One of the educational goals of the Capstone Design course is to increase student’s awareness of the need to protect confidential technical information."
+        },
+        "children": [],
+        "keywords": [
+            "confidential",
+            "information",
+            "requirements",
+            "sponsor",
+            "agreement",
+            "rule"
+        ]
+    },
+    "sponsorship_agreement_and_waiver": {
+        "display": {
+            "prompt": "Sponsorship agreement and waiver",
+            "links": ["https://designlab.eng.rpi.edu/edn/attachments/114331"],
+            "description": "The Sponsorship Agreement (SPONSORSHIP AGREEMENT 11-15-13.pdf) describes the rules for handling information provided by the sponsor that is explicitly marked “confidential”. Guidelines are also given for publication of project results."
+        },
+        "children": [],
+        "keywords": [
+            "legal",
+            "confidential",
+            "form",
+            "waiver",
+            "sponsor"
+        ]
+    }
+
+}
